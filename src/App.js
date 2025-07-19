@@ -8,6 +8,7 @@ function App() {
       <img src={logo} />
 
       <h1>Utilizando react</h1>
+      <h1>Mi proyecto actualizado en AWS Amplify </h1>
 
     </div>
   );
